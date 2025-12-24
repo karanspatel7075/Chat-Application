@@ -26,7 +26,6 @@ A **real-time chat application** built with **Java, Spring Boot, WebSocket, and 
 | Real-Time Messaging | WebSocket (STOMP) |
 | Persistence | MongoDB (Messages), Room Repository |
 | Authentication & Security | Spring Security (optional / role-based) |
-| Messaging Cache | Redis (Pub/Sub, GEO – optional) |
 | Build & Dependency | Maven |
 | API Endpoints | REST API for Room Management |
 | Deployment | Localhost (for development) |
